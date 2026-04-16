@@ -14,6 +14,6 @@ async def health():
 async def me():
     return {
         "name": "0xdera_24", 
-        "email": "yourname@example.com",
+        "email": "deradev24@gmail.com",
         "github": "https://github.com/Chidera-DevOps"
     }
